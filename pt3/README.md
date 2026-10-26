@@ -19,7 +19,7 @@ Program dibuat menggunakan konsep **Object-Oriented Programming (OOP)** untuk me
 
 ## 3. Class Diagram
 
-![alt text](<diagram class.png>)
+![alt text](image-8.png)
 
 Diagram tersebut menggambarkan struktur class, atribut, method, dan hubungan antarkelas pada program Rental Jaya.
 
